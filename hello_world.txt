@@ -1,2 +1,3 @@
 New text
 happy text
+git commit
